@@ -1,0 +1,13 @@
+//
+//  BayutDubizzle.xcconfig
+//  BayutDubizzle
+//
+//  Created by Arya Menon K on 16/01/2021.
+//  Copyright © 2021 BayutDubizzle. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+BASE_URL = https:/$()/ey3f2y0nre.execute-api.us-east-1.amazonaws.com
